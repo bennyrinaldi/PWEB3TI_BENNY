@@ -47,7 +47,7 @@
                 <td class="auto-style2">&nbsp;</td>
                 <td class="auto-style3">&nbsp;</td>
                 <td>
-                    <asp:Button ID="Button1" runat="server" Text="Kirim" />
+                    <asp:Button ID="Button1" runat="server" Text="Button" />
                 </td>
             </tr>
             <tr>
